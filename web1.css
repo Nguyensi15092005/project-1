@@ -1,0 +1,21 @@
+body{
+    max-width: 1256px;
+    margin:0 auto;
+}
+.menu{
+    background:rgb(110, 217, 236);
+    height:64px;
+    width:100%;
+
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.logo-img{
+    height:57px;
+    width:70px;
+}
+.ip{
+    margin-left:20px;
+}
